@@ -1,4 +1,5 @@
-**This repo is an EXAMPLE ONLY.  create your own empty repo or use an empty template **
+**This repo is an EXAMPLE ONLY.  create your own empty repo or use an empty template https://github.com/ICST-Technion/IOT_REPO_TEMPLATE
+**
 
 ## Pilltrack Project by : Malak Marrid, Mahmoud Massarwi & Zaina Darawsha.
 In this project we have built a smart pill box that makes it easy for patients to track their pill doses over a week (7 days), pill doses times, and to get 
