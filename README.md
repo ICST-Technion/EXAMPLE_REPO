@@ -21,7 +21,7 @@ and make loud continuous sounds to help the patient find the box location.
 #### - Assets: 3D printed parts, Audio files used in this project, 
 #### - link to app additional material: https://drive.google.com/drive/folders/1LCiqWJl7VVG6eHTiEd6VVtLLuSFPIfDv
 
-## Arduino/ESP libraries installed for the project:
+## Arduino/ESP32 libraries used in this project:
 * ArduinoMqttClient - version 0.1.6
 * RTCZero - version 1.6.0
 * Adafruit BusIO - version 1.14.1
