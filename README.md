@@ -13,13 +13,13 @@ and make loud continuous sounds to help the patient find the box location.
 4. Pills taken in time: If the patient took his pills from the right cell, it will light in purple to confirm him that he's done okay, and he will get a "good job notification". There is a virtual pill box in the app that shows the status of each pill dose through the week and it will be updated in the suitable cell with a v mark.
 
 ## Folder description :
-#### - ESP32 folder: in that folder you will find the source code we have built for the esp side (hardware).
-#### - Documentation: wiring diagram + steps to run the system.
-#### - Unit Tests: contains tests we have does to validate how some hardware parts work.
-#### - flutter_app : dart code files for the flutter app.
-#### - Parameters: contains description of configurable parameters 
-#### - Assets: 3D printed parts, Audio files used in this project, 
-#### - link to app additional material: https://drive.google.com/drive/folders/1LCiqWJl7VVG6eHTiEd6VVtLLuSFPIfDv
+* ESP32 folder: in that folder you will find the source code we have built for the esp side (hardware).
+* Documentation: wiring diagram + steps to run the system.
+* Unit Tests: contains tests we have does to validate how some hardware parts work.
+* flutter_app : dart code files for the flutter app.
+* Parameters: contains description of configurable parameters 
+* Assets: 3D printed parts, Audio files used in this project, 
+* link to app additional material: https://drive.google.com/drive/folders/1LCiqWJl7VVG6eHTiEd6VVtLLuSFPIfDv
 
 ## Arduino/ESP32 libraries used in this project:
 * ArduinoMqttClient - version 0.1.6
