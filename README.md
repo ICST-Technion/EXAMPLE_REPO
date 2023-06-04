@@ -1,3 +1,5 @@
+**This repo is an EXAMPLE ONLY.  create your own empty repo or use an empty template **
+
 ## Pilltrack Project by : Malak Marrid, Mahmoud Massarwi & Zaina Darawsha.
 In this project we have built a smart pill box that makes it easy for patients to track their pill doses over a week (7 days), pill doses times, and to get 
 notified by a smartphone app when the pill times come and when they are late for pills. In addition, a helper of the patient can use the app to see the patient LOG and get notified when the patient is late for pills.
@@ -31,3 +33,6 @@ and make loud continuous sounds to help the patient find the box location.
 
 ## Project Poster:
 ![pilltrack_poster_page-0001](https://user-images.githubusercontent.com/116976579/219964681-bfead2e6-48d1-4b6d-91fa-6e38bef64aa1.jpg)
+
+This project is part of ICST - The Interdisciplinary Center for Smart Technologies, Taub Faculty of Computer Science, Technion
+https://icst.cs.technion.ac.il/
